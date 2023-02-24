@@ -26,3 +26,6 @@
   justify-content: center;
   text-align: start;
   padding: 3rem; }
+
+#map {
+  height: 55rem; }
