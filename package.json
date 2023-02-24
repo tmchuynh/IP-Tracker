@@ -1,0 +1,20 @@
+{
+  "name": "ip-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch public/scss -o public/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmchuynh/IP-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmchuynh/IP-Tracker/issues"
+  },
+  "homepage": "https://github.com/tmchuynh/IP-Tracker#readme"
+}
