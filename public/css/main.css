@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.input-section {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  margin: 0 auto;
+  width: 75%; }
+  .input-section .form-control:focus {
+    box-shadow: none;
+    border: var(--bs-border-width) solid var(--bs-border-color); }
+  .input-section button {
+    border: none;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-left: -2rem;
+    background-color: black;
+    color: white;
+    width: 2rem; }
