@@ -1,5 +1,7 @@
-const _ = "fb546139f933b8664332f96848b641153631454";
-const __ = "AIzaSyDFdJVTOTNjbyJK0XTxoV_Z4A33Ug5tf8E";
+import code from './config.js';
+
+const _ = code._;
+const __ = code.__;
 
 var form_control = document.querySelector(".form-control");
 var address = document.querySelector('.address');
